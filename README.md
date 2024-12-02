@@ -19,7 +19,7 @@ We are going to be creating the Entity Relationship Diagram for your StarWars Bl
 
 1. Get inside the environment `$ pipenv shell`
 
-2. Install all dependencies `$ pipenv install`
+2. Install all dependencies `$ pipenv shell`
 
 3. Generate the diagram as many times as you need `$ python src/models.py`
 
